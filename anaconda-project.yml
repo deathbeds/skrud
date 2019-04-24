@@ -17,6 +17,7 @@ env_specs:
       - jupyterlab_server
       - nodejs >8,<9
       - notebook
+      - pandas
       - psutil
       - pydantic
       - pyld
