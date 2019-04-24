@@ -1,0 +1,22 @@
+name: skrud-demo
+
+channels:
+  - conda-forge
+  - defaults
+
+dependencies:
+  - importnb
+  - ipywidgets
+  - jupyter_server
+  - jupyterlab_server
+  - nodejs >8,<9
+  - notebook
+  - psutil
+  - pydantic
+  - pyld
+  - python >=3.7,<3.8
+  - pyyaml
+  - rdflib
+  - rdflib-jsonld
+  - tornado <6
+  - voila
